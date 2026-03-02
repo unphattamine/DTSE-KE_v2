@@ -22,7 +22,7 @@ from llama_index.core.postprocessor import LLMRerank
 
 st.set_page_config(page_title="DTSE RAG", layout="wide")
 load_dotenv()
-api_key = os.getenv("API_KEY")
+api_key = st.secrets.get("API_KEY") or os.getenv("API_KEY")
 
 st.sidebar.title("Search Settings")
 llm_model_options = {
