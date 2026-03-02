@@ -1,0 +1,387 @@
+
+
+Deutsche Telekom continues growth course
+
+ Net revenue up 5.9 percent to 28.2 billion euros in the second quarter of 2022 
+
+Adjusted EBITDA AL up 5.0 percent to 9.9 billion euros
+
+Free cash flow AL at 2.8 billion euros
+
+Adjusted net profit up 15.7 percent to 2.4 billion euros
+
+ Guidance for the 2022 financial year raised: adjusted EBITDA AL of around 37 billion euros, free cash flow AL of more than 10 billion euros anticipated 
+
+Strong financial figures in Germany
+
+Record customer growth at T-Mobile US
+
+Growth course in the Europe segment continues unabated
+
+Partnership deal agreed for GD Towers
+
+ Deutsche Telekom presented strong earnings again in the second quarter of 2022, enabling it to raise its guidance for the second time this year. The Group’s adjusted EBITDA AL is now expected to reach around 37 billion euros, up from the previous guidance of more than 36.6 billion euros. This is attributable both to the positive development of business at T-Mobile US and to the strong performance outside the United States. Free cash flow AL is still expected to reach more than 10 billion euros for the full year. The business excluding the United States is expected to make a contribution that is around 0.1 billion higher than anticipated previously. “We continue to grow, despite the difficult economic environment,” said Tim Höttges, Chairman of the Board of Management at Deutsche Telekom. “We are well on track this year to meet our ambitious targets announced at the 2021 Capital Markets Day. Our investments are paying off.” Net revenue increased by 5.9 percent in the second quarter to 28.2 billion euros. High-value service revenues developed particularly well, growing by 10.8 percent. Adjusted EBITDA AL increased by 5.0 percent compared with the prior-year period to 9.9 billion euros. In organic terms, i.e., adjusted for exchange rate effects and changes in the composition of the Group, revenue in the second quarter remained more or less unchanged at the prior-year level. Service revenues increased by 4.3 percent in the three-month period. Adjusted EBITDA AL decreased slightly by 0.9 percent on account of the shift away from the former Sprint’s handset leasing model. In terms of cash capex excluding expenses for mobile spectrum, the Group invested around 5 billion euros between April and June, i.e., 16.3 percent more than in the second quarter of 2021. Free cash flow AL was at the prior-year level of 2.8 billion euros. Adjusted net profit increased by 15.7 percent in the second quarter to 2.4 billion euros, driven in particular by higher earnings from operations. Reported net profit declined, primarily due to higher expenses for the integration of Sprint in the United States. 
+
+Germany: revenue and earnings continue to grow
+
+ The Germany segment delivered strong financials in the second quarter of 2022. Revenue grew by 2.7 percent year-on-year to 6.1 billion euros. Adjusted EBITDA AL recorded even stronger growth of 3.1 percent to 2.4 billion euros in the second quarter. This corresponds to an EBITDA AL margin of 40.0 percent and earnings growth for 23 quarters in a row. Telekom remains the strongest broadband provider in the German market, which was weaker overall in the second quarter. 45,000 broadband net additions were recorded between April and June. The number of fiber-optic-based lines (FTTx, retail and wholesale) increased to 17.7 million. This means that around 75 percent of retail broadband customers are already using the fiber infrastructure. 
+
+United States: customer growth at record level
+
+ In the second quarter of 2022, the mobile postpaid net additions were at a record level of 1.7 million: the best-ever customer growth in a second quarter, more than the competitors AT&T and Verizon in this quarter combined. The total customer base increased to 110 million, up 5.2 million year-on-year. Total revenue at T-Mobile US decreased slightly by 1.1 percent in the reporting quarter to 19.8 billion U.S. dollars. This was due to the decline in revenue from handset leasing, due to the planned gradual withdrawal from this Sprint business model. Adjusted EBITDA AL declined by 2.4 percent to 6.7 billion U.S. dollars. Core adjusted EBITDA (U.S. GAAP), i.e., earnings adjusted for the effect of handset leasing, increased by 10.4 percent in organic terms. Thanks to the fact that the integration of Sprint has continued to progress well and rapidly, T-Mobile US is raising its guidance for the synergies from the business combination to between 5.4 and 5.6 billion U.S. dollars in 2022, up from the previous range of between 5.2 and 5.4 billion U.S. dollars. As a result, earnings in the U.S. business are expected to rise much more than previously planned to adjusted EBITDA AL of around 22.7 billion euros, instead of the previous guidance of more than 22.4 billion euros. The number of postpaid customers is expected to increase by 6 to 6.3 million, around 600,000 net additions more than were expected after the end of the first quarter. 
+
+Europe: growth course continues unabated
+
+ The European national companies continued to grow unabated in the second quarter. Adjusted EBITDA AL grew 4.5 percent year-on-year in organic terms, making 18 successive quarters of growth. Revenue also recorded organic growth of 4.2 percent. The reported revenue of 2.7 billion euros was 2.7 percent lower than in the prior-year quarter. The difference between the reported and organic figures essentially results from the sale of the Romanian fixed-network business at the end of September 2021. 243,000 mobile contract net additions were recorded in the second quarter. Broadband net additions were at the same level as in the previous quarter at 70,000. 186,000 new users were won for fixed-mobile convergence products. 
+
+Systems Solutions: stable business development with earnings growth
+
+ The second quarter was largely stable at T-Systems. Revenue was on a par with the prior-year level at 1.0 billion euros. Adjusted EBITDA AL again recorded substantial growth: up 13.9 percent to 82 million euros. Order entry stood at 930 million euros. 
+
+Group Development: partnership deal agreed for GD Towers
+
+ On July 14, Deutsche Telekom announced the sale of a 51 percent stake in GD Towers, the Group’s cell tower business in Germany and Austria, to DigitalBridge and Brookfield. The Group will continue to report on the development of the ongoing business until the transaction is closed. At the end of the quarter, GD Towers featured 40,700 sites. Revenue increased by 4.6 percent in organic terms in the second quarter to 285 million euros. Adjusted EBITDA AL amounted to 174 million euros, an increase of 7.2 percent in organic terms. The significant decline in the reported figures for revenue and earnings in the segment resulted from the sale of T-Mobile Netherlands, which was completed at the end of the first quarter of 2022. a. The sale of T-Mobile Netherlands was consummated on March 31, 2022. As such, T-Mobile Netherlands has not been part of the Group since April 1, 2022 (Group Development segment). The contributions for the first quarter of 2022 are still included in operational development due to the cumulative view. Operating segments: development of customer numbers in the second quarter of 2022 
+
+June 30, 2022
+
+thousands
+
+Mar. 31, 2022
+
+thousands
+
+Change
+
+thousands
+
+Change
+
+%
+
+Germany
+
+Mobile customers
+
+54,551
+
+53,968
+
+583
+
+1.1
+
+Of which contract customers
+
+23,402
+
+23,165
+
+237
+
+1.0
+
+Fixed-network lines
+
+17,437
+
+17,480
+
+-43
+
+-0.2
+
+Broadband lines
+
+14,578
+
+14,533
+
+45
+
+0.3
+
+Of which optical fibera
+
+10,836
+
+10,584
+
+252
+
+2.4
+
+Television (IPTV, satellite)
+
+4,039
+
+4,018
+
+21
+
+0.5
+
+Unbundled local loop lines (ULLs)
+
+3,351
+
+3,487
+
+-136
+
+-3.9
+
+United States
+
+Customers
+
+110,023
+
+109,541
+
+482
+
+0.4
+
+Of which postpaid customers
+
+88,787
+
+88,423
+
+364
+
+0.4
+
+Of which prepaid customers
+
+21,236
+
+21,118
+
+118
+
+0.6
+
+Europeb
+
+Mobile customers
+
+46,459
+
+45,584
+
+875
+
+1.9
+
+Of which contract customers
+
+26,046
+
+25,803
+
+243
+
+0.9
+
+Fixed-network lines
+
+7,839
+
+7,814
+
+25
+
+0.3
+
+Broadband customers
+
+6,521
+
+6,451
+
+70
+
+1.1
+
+Television (IPTV, satellite, cable)
+
+4,067
+
+4,050
+
+17
+
+0.4
+
+ a. Sum of all FTTx access lines (e.g., FTTC/VDSL, vectoring, and FTTH/B). b. Since January 1, 2022, 921,000 contract customers of a service provider in Austria are no longer reported among our customers. The prior-year figures have not been adjusted retrospectively. Operating segments: development of customer numbers in year-on-year comparison 
+
+June 30, 2022 thousands
+
+June 30, 2021 thousands
+
+Change
+
+thousands
+
+Change
+
+%
+
+Germany
+
+Mobile customers
+
+54,551
+
+50,272
+
+4,279
+
+8.5
+
+Of which contract customers
+
+23,402
+
+22,682
+
+720
+
+3.2
+
+Fixed-network lines
+
+17,437
+
+17,555
+
+-118
+
+-0.7
+
+Broadband lines
+
+14,578
+
+14,304
+
+274
+
+1.9
+
+Of which optical fibera
+
+10,836
+
+9,971
+
+865
+
+8.7
+
+Television (IPTV, satellite)
+
+4,039
+
+3,933
+
+106
+
+2.7
+
+Unbundled local loop lines (ULLs)
+
+3,351
+
+3,853
+
+-502
+
+-13.0
+
+United Statesb
+
+Customers
+
+110,023
+
+104,789
+
+5,234
+
+5.0
+
+Of which postpaid customers
+
+88,787
+
+83,848
+
+4,939
+
+5.9
+
+Of which prepaid customers
+
+21,236
+
+20,941
+
+295
+
+1.4
+
+Europec
+
+Mobile customers
+
+46,459
+
+45,788
+
+671
+
+1.5
+
+Of which contract customers
+
+26,046
+
+27,172
+
+-1,126
+
+-4.1
+
+Fixed-network lines
+
+7,839
+
+9,111
+
+-1,272
+
+-14.0
+
+Broadband customers
+
+6,521
+
+7,050
+
+-529
+
+-7.5
+
+Television (IPTV, satellite, cable)
+
+4,067
+
+5,098
+
+-1,031
+
+-20.2
+
+ a. Sum of all FTTx access lines (e.g., FTTC/VDSL, vectoring, and FTTH/B). b. As of July 1, 2021, T-Mobile US acquired 716,000 postpaid phone customers and 90,000 other postpaid customers through the acquisition of assets directly associated with the mobile operations of Shentel. The prior-year figures have not been adjusted retrospectively. c. Since January 1, 2022, 921,000 contract customers of a service provider in Austria are no longer reported among our customers. The prior-year figures have not been adjusted retrospectively. This media information contains forward-looking statements that reflect the current views of Deutsche Telekom management with respect to future events. They are generally identified by the words “expect,” “anticipate,” “believe,” “intend,” “estimate,” “aim,” “goal,” “plan,” “will,” “seek,” “outlook,” or similar expressions and include generally any information that relates to expectations or targets for revenue, adjusted EBITDA AL, or other performance measures. Forward-looking statements are based on current plans, estimates, and projections, and should therefore be considered with caution. Such statements are subject to risks and uncertainties, most of which are difficult to predict and are generally beyond Deutsche Telekom’s control. They include, for instance, the progress of Deutsche Telekom’s staff-related restructuring measures and the impact of other significant strategic or business initiatives, including acquisitions, dispositions, and business combinations. In addition, movements in exchange rates and interest rates, regulatory rulings, stronger than expected competition, technological change, litigation and regulatory developments, among other factors, may have a material adverse effect on costs and revenue development. If these or other risks and uncertainties materialize, or if the assumptions underlying any of these statements prove incorrect, Deutsche Telekom’s actual results may be materially different from those expressed or implied by such statements. Deutsche Telekom can offer no assurance that its expectations or targets will be achieved. Without prejudice to existing obligations under capital market law, Deutsche Telekom does not assume any obligation to update forward-looking statements to account for new information or future events or anything else. In addition to figures prepared in accordance with IFRS, Deutsche Telekom presents alternative performance measures, e.g., EBITDA, EBITDA AL, adjusted EBITDA, adjusted EBITDA AL, adjusted EBITDA margin AL, core EBITDA, adjusted EBIT, EBIT margin, adjusted net profit/loss, adjusted earnings per share, free cash flow, free cash flow AL, gross debt, and net debt. These measures should be considered in addition to, but not as a substitute for, the information prepared in accordance with IFRS. Alternative performance measures are not subject to IFRS or any other generally accepted accounting principles. Other companies may define these terms in different ways.

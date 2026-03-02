@@ -1,0 +1,589 @@
+Deutsche Telekom reached its targets in 2023, which had been raised several times over the course of the year. Net revenue increased by 0.6 percent in organic terms – i.e., excluding exchange rate fluctuations and changes in the composition of the Group – to 112.0 billion euros. The more important service revenues grew 3.6 percent in organic terms to 92.9 billion euros. Adjusted EBITDA AL increased by 4.0 percent in organic terms to 40.5 billion euros. Based on the exchange rates and the composition of the Group assumed in the guidance, adjusted EBITDA AL reached 41.1 billion euros. Core EBITDA AL adjusted for the effects from terminal equipment leasing in the United States increased by 6.9 percent in organic terms year-on-year to 40.2 billion euros. The Group’s free cash flow AL increased by 40.7 percent year-on-year to 16.1 billion euros in 2023. “In a world with many challenges, we again delivered with our usual reliability in 2023,” said Tim Höttges, CEO of Deutsche Telekom. “Thanks to our growing businesses on both sides of the Atlantic, we are confident we will up the ante yet again in 2024.” At 17.8 billion euros, reported net profit was more than twice as high as in 2022. The main driver was the proceeds from the sale of the majority stake in the cell tower business in Germany and Austria (GD Towers). Taking the fourth quarter of 2023 on its own, there was a loss of 1.0 billion euros, driven primarily by purely interest rate-based impairment losses on the remaining shareholding in GD Towers. Adjusted net profit stood at 7.9 billion euros in 2023, 12.6 percent down against the prior-year level, negatively impacted by non-recurring effects in other financial income/expense. The Board of Management had announced a proposed dividend of 77 cents per share back in November, on the basis of recurring adjusted earnings per share of 1.60 euros, compared with 1.51 euros per share in the prior year. In addition, shares worth up to 2 billion euros are to be bought back in 2024. These share buy-backs have already begun. In the guidance for 2024, the Group expects adjusted EBITDA AL to increase by around 6 percent to around 42.9 billion euros. Free cash flow AL is expected to increase by around 16 percent to around 18.9 billion euros. For adjusted earnings per share, Deutsche Telekom expects an increase of around 10 percent to more than 1.75 euros. 
+
+Germany: customer growth in all areas
+
+ On its domestic market, Deutsche Telekom recorded positive trends in the past year in all areas. Mobile branded contract customer additions amounted to 1.2 million in 2023. The success of the family rate plans continued. The important mobile service revenues also continued to grow, by 3.2 percent in the fourth quarter compared with the same period of the prior year. In the fixed network, the number of broadband customers grew by more than 300,000 to 15.0 million over the course of the year compared with 2022. For MagentaTV, the increase was more than 200,000 to 4.3 million. Deutsche Telekom once again kept up its momentum in the build-out of its fiber network in Germany. Around 8 million households were able to get a pure fiber line (FTTH) from Deutsche Telekom as of year-end, 2.6 million more than at the end of 2022. In the Germany operating segment, total revenue rose by 2.8 percent in 2023 to 25.2 billion euros. The increase in adjusted EBITDA AL was even more substantial at 4.1 percent, rising to 10.2 billion euros. In organic terms, revenue grew by 2.1 percent and adjusted EBITDA AL by 3.0 percent. 
+
+United States: industry-leading growth
+
+ In 2023, T-Mobile US’ customer base once again recorded the largest growth in the industry. The company recorded postpaid customer additions of 5.7 million, 3.1 million of these were postpaid phone customer additions. The number of customers who opted for the fixed-network high-speed internet substitute product stood at 4.8 million as of year-end, 2.1 million higher than at the end of 2022. This is on track for the 2025 target of 7 to 8 million. T-Mobile US’ service revenues stood at 63.3 billion U.S. dollars for 2023, up 3.4 percent against 2022. Adjusted core EBITDA increased by 10.6 percent to 28.3 billion U.S. dollars. For 2024, T-Mobile US expects the number of postpaid customers to increase by 5.0 to 5.5 million, as well as further growth in adjusted core EBITDA and free cash flow. Deutsche Telekom’s stake in T-Mobile US amounted to 50.7 percent as of January 31, 2024. 
+
+Europe: Growth continues strongly
+
+ The Europe segment has recorded organic profit growth in every single quarter for six years now. For the 2023 full year, adjusted EBITDA AL recorded organic growth of 2.8 percent, increasing to 4.1 billion euros. At the same time, revenue increased compared to 2022 by 4.8 percent in organic terms to 11.8 billion euros. Customer growth also continued in Europe. In the 2023 full year, there were 746,000 new mobile contract customers, taking the base to 27.2 million as of year-end. The number of broadband lines increased by 307,000 compared with 2022 to 7.0 million. At the end of 2023, 4.3 million customers were using TV offers, 152,000 more than a year earlier. 
+
+Systems Solutions: revenue growth in the full year
+
+ T-Systems looks back on a year of revenue growth. Revenue increased on an organic basis by 5.3 percent to 3.9 billion euros. Digital Solutions recorded substantial growth. Adjusted EBITDA AL increased by 10.0 percent in organic terms in the full year to 321 million euros. Order entry decreased in organic terms in 2023, down 4.9 percent to 3.6 billion euros. However, there was an increase of 20.1 percent in the fourth quarter. 
+
+The Deutsche Telekom Group at a glance
+
+Q4 2023
+
+millions of €
+
+Q4 2022
+
+millions of €
+
+Change
+
+%
+
+FY 2023
+
+millions of €
+
+FY 2022
+
+millions of €
+
+Change
+
+%
+
+Net revenue
+
+29,369
+
+29,800
+
+-1.4
+
+111,985
+
+114,413
+
+-2.1
+
+Proportion generated internationally %
+
+77.0
+
+78.0
+
+-1.0p
+
+77.0
+
+77.9
+
+-0.9p
+
+Service revenue
+
+23,894
+
+23,732
+
+0.7
+
+92,919
+
+91,988
+
+1.0
+
+Adjusted EBITDA
+
+11,619
+
+11,495
+
+1.1
+
+46,831
+
+46,410
+
+0.9
+
+Adjusted EBITDA AL
+
+10,009
+
+9,964
+
+0.5
+
+40,497
+
+40,208
+
+0.7
+
+Net profit (after non-controlling interests)
+
+-1,035
+
+1,014
+
+n.a.
+
+17,788
+
+8,001
+
+n.a.
+
+Adjusted net profit (after non-controlling interests)
+
+1,826
+
+1,987
+
+-8.1
+
+7,940
+
+9,081
+
+-12.6
+
+Earnings per share €
+
+-0.21
+
+0.20
+
+n.a.
+
+3.57
+
+1.61
+
+n.a.
+
+Adjusted earnings per share €
+
+0.37
+
+0.40
+
+-7.5
+
+1.60
+
+1.83
+
+-12.6
+
+Free cash flow AL
+
+4,352
+
+2,026
+
+n.a.
+
+16,141
+
+11,470
+
+40.7
+
+Cash capexa
+
+4,164
+
+5,906
+
+-29.5
+
+17,866
+
+24,114
+
+-25.9
+
+Cash capexa (before spectrum)
+
+3,348
+
+5,794
+
+-42.2
+
+16,591
+
+21,019
+
+-21.1
+
+Net debt (including leases)
+
+132,279
+
+142,425
+
+-7.1
+
+Number of employeesb
+
+199,652
+
+206,759
+
+-3.4
+
+Of which in Germany
+
+78,600
+
+81,469
+
+-3.5
+
+Comments on the table
+
+Sale of T-Mobile Netherlands
+
+ The sale of T-Mobile Netherlands was consummated on March 31, 2022. The entity has not been part of the Group since April 1, 2022. New partners for the cell tower business On July 13, 2022, Deutsche Telekom agreed to sell a 51.0 percent stake in in the tower business companies in Germany and Austria (GD Towers) to DigitalBridge and Brookfield. The transaction was consummated on February 1, 2023. Until this point in time, GD Towers had been included as a fully consolidated entity in the figures of the Deutsche Telekom Group. GD Towers is no longer included in the figures for the fourth quarter of 2023. In the reported prior-year comparatives (Q4 2022), however, the cell tower business is included for the full three months. In contrast, GD Towers is not included in the same period for 2022 for statements concerning the organic development of revenue and earnings of the Group. GD Towers is also not included in the Group guidance for the full year 2023. The sale resulted in a gain on deconsolidation in the first quarter of 2023 of 12.9 billion euros. The stake in the cell tower business retained by Deutsche Telekom of 49.0 % has been recognized using the equity method since February 1, 2023. Accordingly, the share of net profit/loss is recognized under profit/loss from financial activities (outside of EBITDA AL). Operating segments: development of customer numbers in the fourth quarter of 2023 
+
+Dec. 31, 2023
+
+thousands
+
+Sept. 30, 2023
+
+thousands
+
+Change
+
+thousands
+
+Change
+
+%
+
+Germany
+
+Mobile customers
+
+61,419
+
+59,778
+
+1,641
+
+2.7
+
+Of which contract customers
+
+25,171
+
+24,811
+
+360
+
+1.5
+
+Fixed-network lines
+
+17,342
+
+17,352
+
+-10
+
+-0.1
+
+Broadband lines
+
+15,018
+
+14,952
+
+66
+
+0.4
+
+Of which optical fibera
+
+12,893
+
+12,620
+
+273
+
+2.2
+
+Television (IPTV, satellite)
+
+4,327
+
+4,259
+
+68
+
+1.6
+
+Unbundled local loop lines (ULLs)
+
+2,527
+
+2,690
+
+-163
+
+-6.1
+
+United States
+
+Customers
+
+119,700
+
+117,907
+
+1,793
+
+1.5
+
+Of which postpaid customers
+
+98,052
+
+96,312
+
+1,740b
+
+1.8
+
+Of which prepaid customers
+
+21,648
+
+21,595
+
+53
+
+0.2
+
+Europe
+
+Mobile customers
+
+47,853
+
+47,949
+
+-96
+
+-0.2
+
+Of which contract customers
+
+27,222
+
+26,976
+
+246
+
+0.9
+
+Fixed-network lines
+
+8,020
+
+7,995
+
+25
+
+0.3
+
+Broadband customers
+
+6,989
+
+6,913
+
+76
+
+1.1
+
+Television (IPTV, satellite, cable)
+
+4,283
+
+4,246
+
+37
+
+0.9
+
+ Comments on the table a) Sum of all FTTx access lines (e.g., FTTC/VDSL, vectoring, and FTTH/B). b) Of which 170,000 due to base adjustments. Operating segments: development of customer numbers in year-on-year comparison 
+
+Dec. 31, 2023
+
+thousands
+
+Dec. 31, 2022
+
+thousands
+
+Change
+
+thousands
+
+Change
+
+%
+
+Germany
+
+Mobile customers
+
+61,419
+
+54,249
+
+7,170
+
+13.2
+
+Of which contract customers
+
+25,171
+
+23,791
+
+1,380
+
+5.8
+
+Fixed-network lines
+
+17,342
+
+17,363
+
+-21
+
+-0.1
+
+Broadband lines
+
+15,018
+
+14,715
+
+303
+
+2.1
+
+Of which optical fibera
+
+12,893
+
+12,112
+
+781
+
+6.4
+
+Television (IPTV, satellite)
+
+4,327
+
+4,122
+
+205
+
+5.0
+
+Unbundled local loop lines (ULLs)
+
+2,527
+
+3,136
+
+-609
+
+-19.4
+
+United States
+
+Customers
+
+119,700
+
+113,598
+
+6,102
+
+5.4
+
+Of which postpaid customers
+
+98,052
+
+92,232
+
+5,820b
+
+6.3
+
+Of which prepaid customers
+
+21,648
+
+21,366
+
+282
+
+1.3
+
+Europe
+
+Mobile customers
+
+47,853
+
+47,336
+
+517
+
+1.1
+
+Of which contract customers
+
+27,222
+
+26,476
+
+746
+
+2.8
+
+Fixed-network lines
+
+8,020
+
+7,904
+
+116
+
+1.5
+
+Broadband customers
+
+6,989
+
+6,682
+
+307
+
+4.6
+
+Television (IPTV, satellite, cable)
+
+4,283
+
+4,131
+
+152
+
+3.7
+
+ Comments on the table a) Sum of all FTTx access lines (e.g., FTTC/VDSL, vectoring, and FTTH/B). b) Of which 170,000 due to base adjustment. This media information contains forward-looking statements that reflect the current views of Deutsche Telekom management with respect to future events. They are generally identified by the words “expect,” “anticipate,” “believe,” “intend,” “estimate,” “aim,” “goal,” “plan,” “will,” “seek,” “outlook,” or similar expressions and include generally any information that relates to expectations or targets for revenue, adjusted EBITDA AL, or other performance measures. Forward-looking statements are based on current plans, estimates, and projections, and should therefore be considered with caution. Such statements are subject to risks and uncertainties, most of which are difficult to predict and are generally beyond Deutsche Telekom’s control. They include, for instance, the progress of Deutsche Telekom’s staff-related restructuring measures and the impact of other significant strategic or business initiatives, including acquisitions, dispositions, and business combinations. In addition, movements in exchange rates and interest rates, regulatory rulings, stronger than expected competition, technological change, litigation and regulatory developments, among other factors, may have a material adverse effect on costs and revenue development. If these or other risks and uncertainties materialize, or if the assumptions underlying any of these statements prove incorrect, Deutsche Telekom’s actual results may be materially different from those expressed or implied by such statements. Deutsche Telekom can offer no assurance that its expectations or targets will be achieved. Without prejudice to existing obligations under capital market law, Deutsche Telekom does not assume any obligation to update forward-looking statements to account for new information or future events or anything else. In addition to figures prepared in accordance with IFRS, Deutsche Telekom presents alternative performance measures, e.g., EBITDA, EBITDA AL, adjusted EBITDA, adjusted EBITDA AL, adjusted EBITDA margin AL, core EBITDA, adjusted EBIT, EBIT margin, adjusted net profit/loss, adjusted earnings per share, free cash flow, free cash flow AL, gross debt, and net debt. These measures should be considered in addition to, but not as a substitute for, the information prepared in accordance with IFRS. Alternative performance measures are not subject to IFRS or any other generally accepted accounting principles. Other companies may define these terms in different ways.

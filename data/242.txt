@@ -1,0 +1,17 @@
+T-Systems continues to invest in the automotive industry, focusing on four areas: Vehicle software and connectivity, digital customer experiences, the digitization of the company, and secure cloud computing. To this end, the Telekom subsidiary plans to create around 600 jobs worldwide by 2023. Already, 4,000 experts are working on the digitization of the industry. T-Systems is recruiting around 200 new employees for the Wolfsburg site alone. "Electromobility, autonomous driving, networking: in the future, the core competence of car manufacturers will be software," says Christian Hort, responsible for the Automotive business area at T-Systems. "The challenge lies in managing the entire software lifecycle. In my opinion, this is even more complex than the pure electronics delivery cycle. No car manufacturer will manage to map the entire software supply chain on its own and also offer all services related to the car, the customer and production from its own resources." Thomas Jenne, responsible for digital solutions in the Automotive & Manufacturing industry segment, explains: "The industry is changing massively - and we are changing with it. We are transforming our customers' existing landscapes and opening up new, digital technologies for innovation in the vehicle and in the core processes of automotive manufacturers and suppliers. A large part of this investment is going into our team. We are further developing our existing team and selectively strengthening ourselves from outside." 
+
+Vehicle software and connectivity
+
+ Car manufacturers are making software the heart of their vehicles. 70 control units become a few computers in the vehicle. Sensors record the environment. This makes autonomous driving possible. T-Systems programs software in the car and connects the vehicle to central computers in the background. For example, the IT service provider already installs software updates via mobile communications for more than 25 million vehicles. 
+
+Digital customer experience
+
+ End customers are increasingly engaged in direct digital exchanges with car manufacturers and car dealerships: from purchase to maintenance to sale. T-Systems develops digitization strategies as well as new business models for customer contact and develops solutions for the digital customer experience in cars and around mobility. 
+
+Digitization of the enterprise
+
+ Supply chains and production networks in the automotive industry are so complex that no company can set this up on its own anymore. T-Systems is working on various initiatives for more connectivity, automation and resilience in the industry. For example, T-Systems is a co-founder of the Catena-X initiative. The "Catena-X Automotive Network" brings transparency to supply chains and leaves data sovereignty with the providers of the data. Its goal is to create a uniform standard for data and information flows throughout the automotive value chain. 
+
+Secure cloud computing
+
+ The latest generation of public cloud services and solutions offers possibilities that were previously reserved for the private cloud. These include data sovereignty over one's own information - be it corporate or personal data. In addition, the public cloud offers customers savings in operation and energy consumption.

@@ -1,0 +1,13 @@
+The German start-up smartcustos and Deutsche Telekom enable small local churches control bell ringing remotely with a smart box in the Internet of Things (IoT). The solution makes life easier for pastors and sacristans and also offers potential for the further digitalization of churches. Data is transmitted via Telekom's mobile network, which is available worldwide. 
+
+Smart solution for current challenges
+
+ The IoT solution from smartcustos and Telekom is the result of a growing challenge: In Germany, many local churches have been merged. To make life easier for pastors and sacristans, smartcustos has therefore developed a smart bell control system especially for small churches. Via the IoT box, the bell ringing can be automatically activated and stopped from a PC or smartphone using any calendar app. The device is equipped with a cellular modem and external sensors for temperature and humidity. Installations, cables or special software for the box are not necessary. 
+
+Efficient ringing, heating and ventilating
+
+ Instead of driving to the church to manually start the bell control, the pastor or sacristan can now do this from home with a simple digital calendar entry. The solution also makes it easy to program new ringing sequences. A further advantage is that the sensors measure temperature and humidity in the nave and on the organ. The data is automatically transferred to the cloud via mobile communications and enables more precise heating and ventilation of the church. This saves heating costs and is also important for works of art or the sensitive organ. 
+
+IoT makes it easy to implement many ideas
+
+ "Thanks to the close cooperation with Telekom, we have been able to further develop and improve our solutions for churches," says Kai Kerwel, Managing Director of smartcustos Unternehmergesellschaft. "Their expertise and innovative power have helped to take our technological solutions to a new level. It's a partnership that allows us to help churches move into the future with advanced technology." "Controlling the ringing of church bells remotely - this example shows once again how versatile the Internet of Things can be used to overcome small and large challenges," said Dennis Nikles, CEO Deutsche Telekom IoT GmbH (DT IoT). "Many IoT applications can be transferred to other use cases and easily scaled with imagination and commitment - and without much effort."

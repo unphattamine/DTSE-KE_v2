@@ -1,0 +1,13 @@
+For the first time, a car from MIRA GmbH has publicly participated in inner-city traffic, controlled via cellular radio. The premiere took place under non-test conditions in Cologne during the Digital X tech fair, hosted by Deutsche Telekom. To control a vehicle safely from a distance, various packages of data need to be exchanged in real time. The latest mobile communications standard is used for this purpose. 5G enables short response times and high bandwidths. This makes it possible to synchronize data instantly between the driver's station and the car. The system exchanges sensor data or video from the camera. The widely expanded 5G network from Deutsche Telekom is accelerating the development of teleoperated driving. 
+
+Teleoperated driving closes gap
+
+ A driver in a control station steered the special car at the premiere. Decoupling drivers and the vehicle in this way is called teleoperation. Teleoperators are specially trained for this task. The control station is equipped with special technology. This includes a large monitor wall, together with a steering wheel as well as a pedalset. The vehicle transmits live images from several high-resolution cameras onto the screens. MIRA thus closes a gap on the road to automated driving: Computer systems reach their limits in real street traffic. By law, certain precautions must be taken, such as allowing human intervention. With 5G from Deutsche Telekom, this can happen remotely. 
+
+Low response times make remote steering safer
+
+ The teleoperator has a better overview in the control station than in the vehicle itself. The visual axes of the cameras eliminate blind spots. The short reaction time of 5G is very important in road traffic. It ensures that drivers react as quickly as possible to any situation. Very good network coverage is required for perfect interaction between drivers and cars. The 5G network of Deutsche Telekom already reaches more than 92 percent of the population. With the remote-controlled vehicles, Mira plans to increase the acceptance of automated driving within society. In Germany, remote-controlled driving is currently still regulated. It is permitted only on private property or on specified test routes. 
+
+Telekom and MIRA plan tests in Bonn
+
+ Cologne is followed by the German city of Bonn as a further testing ground for remote-controlled car driving. Deutsche Telekom is involved in the Mira tests. With the test results, its technical teams plan to better adapt and optimize the 5G network to meet the requirements for teleoperated driving.

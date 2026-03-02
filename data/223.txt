@@ -1,0 +1,25 @@
+Today at Digital X, T-Systems announced a deeper focus on their partnership with VMware, making it simpler, faster and less costly for organizations to move to the cloud. This new multi-cloud powerhouse will see T- Systems create a VMware Cloud Center of Excellence, giving customers access to VMware’s portfolio of Infrastructure, application modernization and security services. As a result, customers will be able to build, deploy, better secure and manage any application over any cloud more easily. According to T-Systems migration experts, customers may benefit from up to 40 percent lower operating costs, and 'time to production' could be reduced by half. The VMware Cloud Center of Excellence combines T-Systems' and VMware's proven migration processes, expertise in modernizing IT systems and managing multi-cloud landscapes into an end-to-end solution, now all available from a single provider. "We have jointly invested in this powerhouse to provide customers with even better support for their digitization," Telekom Board of Management member and T-Systems CEO Adel Al-Saleh explained at Telekom’s Digital X event on September 13. "Customers now have exactly one point of contact for the extended VMware portfolio with T-Systems. We have also combined our entire expertise for cloud migrations with VMware organizationally in a Center of Excellence." VMware CEO Raghu Raghuram said: “Today, multi-cloud is the model for digital business. Being competitive in the digital economy requires organizations to build, run and better secure apps wherever they are located. With the VMware Cloud Center of Excellence that T-Systems will create, together we will help our customers in their digital transformation by delivering solutions that make their multi-cloud enterprise more secure, easier to manage, and less expensive, while helping them deliver modern applications faster.” 
+
+Tried and tested migration tool FCI
+
+ T-Systems and VMware have been working closely together for many years. With Future Cloud Infrastructure (FCI), T-Systems already offers customers a migration tool based on VMware technology for any IT infrastructure. T-Systems is currently managing the migration of 450 SAP systems to the cloud for customer, Continental AG, a German automotive parts manufacturing company. The technical foundation is FCI. "We are pleased to continue working with T-Systems," said Christian Eigler, Group CIO at Continental. "The decisive factors for us were the reliability of the applications, the flexibility of the solutions and, above all: end-to-end service – one SAP, one contact person. For all trades from consulting, migration and transformation, operation to the German-speaking hotline." 
+
+Concrete advantages
+
+ The VMware Cloud Center of Excellence is the logical extension of the partnership between VMware and T-Systems. Customers can now migrate their IT to the cloud and modernize their applications at the same time. T-Systems ensures more secure migration and operation with its Security Operations Center. These services will be using leading VMware solutions, including VMware Carbon Black Security, VMware Cross-Cloud services, and VMware vRealize Cloud Management to provide a highly secure and efficient ecosystem for customers. 
+
+Highly standardized processes reduce operating costs. These include:
+
+ Efficiently managing the lifecycle and policies of containers based on VMware Tanzu in any cloud using VMware multi-cloud solutions from a single interface; Running, managing, and securing applications with an enterprise-grade set of centralized tools, including T-Systems Tanzu Developer Services or FCI Tanzu Platform Services; 
+
+Using known tools and integrating them into the platform
+
+Digitization projects are accelerated:
+
+Through a complete automation path from code to production;
+
+ By shortening onboarding time of developers who can start programming immediately; 
+
+By relieving developers of the burden of operating the platform;
+
+ By implementing an open framework to support and simplify development work

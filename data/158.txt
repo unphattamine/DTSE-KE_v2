@@ -1,0 +1,61 @@
+Deutsche Telekom is putting human-centric technology in the spotlight at Mobile World Congress (MWC) 2023. Under the motto "Giving technology a heartbeat," the company will showcase exciting innovations in networks and digital applications in Barcelona from February 27, 2023. "We want technology with a heartbeat, technology as a lever for a better world. We want to use technology to overcome common challenges. For our customers, the ecosystem and society," says Claudia Nemat, Board Member for Technology and Innovation at Deutsche Telekom. "At MWC 2023, Deutsche Telekom is focusing on modern options for emergency communications, innovative energy-saving measures and simple applications for customers. Resilient and sustainable networks are our trade fair stars." 
+
+Resilient networks - first connection with 5G technology across space
+
+ In the event of natural disasters, networks also need a plan B. Deutsche Telekom is showing how terrestrial and satellite-based communications are seamlessly merging. So that contact with users is not interrupted when the infrastructure is affected. Flying antennas and satellites can support communications networks on the ground. If the network on the ground fails, antennas in the sky maintain contact with the smartphones of those affected. The connection is then rerouted via satellites. In the trial with partners, the seamless transition from the conventional network via the stratosphere and space back to the ground worked. And it did so using 5G technology, for the first time anywhere in the world. 
+
+Connectivity from space also for the Internet of Things
+
+ The interaction of satellites with terrestrial antennas will also play a key role in the future for the global Internet of Things (IoT). To this end, Deutsche Telekom is working with more than 600 roaming partners around the world and initially two providers of satellite services. Business customers can now connect to their IoT devices anywhere, even on the oceans or in deserts. In the IoT Hub, Deutsche Telekom's marketplace for IoT offerings, a wide variety of products are waiting to be deployed worldwide. Everything from a single source. 
+
+First commercial deployment of Open RAN with multiple partners
+
+ Deutsche Telekom is focusing on Open RAN as the technology of choice for future networks. It also serves as a catalyst to move Europe forward in the digital age together with partners. To this end, the company has now announced the first commercial deployment of Open RAN with several partners. With Nokia and Fujitsu in Germany and Mavenir in Europe, Deutsche Telekom plans to equip the first commercial networks. Deployment is scheduled to start in 2023. To clarify: Traditional radio access networks are delivered as integrated solutions from a single vendor. Open RAN opens up interfaces between the different parts of the radio access network, allowing operators to introduce components from different vendors. Deutsche Telekom's strategy is to promote greater vendor diversity and accelerate customer-oriented innovations in the radio access network. 
+
+Focus on sustainability - green networks and circular economy
+
+ Deutsche Telekom has ambitious goals: In addition to climate neutrality for its own CO2 emissions by 2025, the Group also wants to be completely climate neutral along the entire value chain by 2040 at the latest. At the MWC, the company is showcasing environmentally friendly solutions for different areas of application. 
+
+Sustainable packaging for a better future
+
+ Deutsche Telekom has also rethought the design of packaging. For example, smaller space requirements mean less transport volume and freight traffic. The packaging does not require any special buffer materials. This makes waste management easier and avoids unnecessary waste disposal. Deutsche Telekom aims to make its technologies and equipment fully recyclable by 2030. This applies to all product lines, but also to requirements vis-à-vis suppliers. Even measures that seem rather inconspicuous at first glance have a major impact. New Deutsche Telekom products for the German and European markets have already been packaged sustainably since mid-2022. Environmentally friendly packaging is also mandatory for network equipment such as antennas or routers. For example, there is no longer any plastic packaging that is not biodegradable. Deutsche Telekom does not use glossy sleeves at all. There is no bleaching, no other chemical treatments, no toxic materials. 
+
+Innovative services for more convenience and security
+
+ The same applies to all new solutions: Deutsche Telekom focuses on the environment. Equally important to it is protecting people's privacy and ensuring their safety. 
+
+Protection for the vulnerable in road traffic
+
+ "I didn't see them" is often said after an accident between bicycles and vehicles. Visitors to Barcelona playfully experience how the Internet of Things can save lives in road traffic. Deutsche Telekom and its partner Spoke guide visitors through various critical traffic situations. They show how Deutsche Telekom's mobile network makes the streets of smart cities safer. Together, they have developed a solution that enables bicycles and cars to recognize each other. This makes the street a slightly safer place. 
+
+eSIM transfer makes changing devices easy and secure
+
+ eSIMs are convenient and will soon have replaced plastic SIM cards. But when switching smartphones, transferring the mobile contract from the old to the new device has been cumbersome until now. Google, Deutsche Telekom and GSMA have developed a standard for this so-called eSIM transfer. Owners of a Pixel 7 will be the first to benefit from this experience on the DT network. Thanks to the new process, customers can immediately transfer their mobile phone contract to their new device with just a few clicks. The old and new cell phones must be in close proximity to each other. This makes the exchange not only simple, but also secure. There is no longer any need for an app, calling up a website, or calling customer service. 
+
+Router for simplest operation and best connections
+
+ With a new router concept based on RDK, Deutsche Telekom intends to further improve the internet experience in the future. With the operating system developed in-house, functions are simplified so that operation is possible via app and without prior knowledge. The Wi-Fi improves itself thanks to active Wi-Fi management, providing optimum connections for all devices in the home. Self-healing mechanisms such as radio channel changes, sorting of devices between radio bands or necessary reboots run automatically. This way, the routers always offer the best performance. 
+
+New for business
+
+ Visitors will also experience digital solutions for the working world at the booth. From flexible connections for companies to transatlantic development platforms and private networks. 
+
+Computing power out of the box
+
+ Deutsche Telekom supplies company locations worldwide with premium internet. It combines highly flexible and scalable hardware (uCPE box with Intel On Demand) and an internet connection with guaranteed performance features. This ensures particularly secure connections. The highlight: Companies determine how much computing power they need at any given time via a flexible payment model. This means they can always adapt performance to their current business conditions. 
+
+Network quality on demand with T-DevEdge
+
+ T-DevEdge is a platform for developers, jointly developed by Deutsche Telekom and T-Mobile US. The cross-country and cross-network platform provides easy access to application programming interfaces (APIs) in our networks. It enables easy access to various properties of the network. Software professionals use it to program useful offerings for businesses. These network APIs thus enable new and innovative applications. The first three network APIs have already been implemented in the network: quality-on-demand, location verification and device status information. Siemens Energy is already testing a Quality-on-Demand network API to optimize its remote maintenance. Technicians on site use augmented reality glasses and get important information displayed directly in their field of vision. Experts from headquarters use this to support the technicians on site in solving complex problems. The API optimizes latency and bandwidth in the network for smooth data transmission. Microsoft has integrated the network APIs into its Azure Programmable Connectivity cloud platform. This makes them particularly easy to integrate into developers' work routines. 
+
+Microsoft Azure and private 5G for small and medium-sized enterprises
+
+ Deutsche Telekom and Microsoft Azure want to work together on private 5G networks. Deutsche Telekom already has a strong portfolio of so-called campus networks. It offers these for industrial use in Europe. Now it is to add a scalable pay-as-you-grow model. With the new offering, customers with an existing Azure landscape will adopt 5G technology particularly easily and cost-effectively. This way, they continue to digitize while remaining flexible. The solution offers a private network that can also extend across multiple locations. Reliable and secure: The newly developed concept integrates new and existing applications. 
+
+MWC media kit
+
+ For more information on the individual topics, visit www.telekom.com/media/mwc. 
+
+Stream Magenta Keynote
+
+ Stay tuned. Claudia Nemat will be reporting live from Barcelona with the "Magenta Keynote" on February 27, at 2:00 p.m. Visit us - in Barcelona or on the web Experience our products and services live. From February 27 to March 02, 2023, you will find Deutsche Telekom in Hall 3 at Booth 3M31. We look forward to seeing you there. All events will be streamed live. Stage program and events: mwc.telekom.com hubraum, Deutsche Telekom's tech incubator, will be at 4 Years from Now (4YFN), the startup event at MWC. At its booth 8.1C14 in Hall 8.1, startups and developers who have gained initial experience with 5G APIs (application programming interfaces) in hubraum's 5G Early Access Program will be presenting among others.

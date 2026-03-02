@@ -1,0 +1,893 @@
+Deutsche Telekom continues its stable growth course. Net revenue increased by 8.8 percent year-on-year in the third quarter of 2022 to 29.0 billion euros. Even higher was the growth in service revenues, which increased by 12.5 percent to 23.6 billion euros. Adjusted EBITDA AL increased by 8.5 percent in the same period to 10.5 billion euros. The strong year-on-year appreciation in the U.S. dollar of around 17 cents had a significant effect on the reported figures. This resulted in lower levels of growth on an organic basis: Excluding changes in exchange rates and the composition of the Group, net revenue was up 0.5 percent, service revenues 3.4 percent, and adjusted EBITDA AL 0.7 percent. “We are once again proving to be an anchor of stability in difficult times,” said Tim Höttges, Chairman of the Board of Management of Deutsche Telekom. “Our businesses continue to grow. That puts us in a position to raise not only our guidance – for the third time this year – but also our dividend.” Free cash flow AL was down slightly year-on-year in the third quarter at 2.9 billion euros. During the same period, capital expenditure of the Group excluding expenses for mobile spectrum totaled 5.6 billion euros worldwide, an increase of 28.0 percent against the prior-year period. At 1.6 billion euros, net profit was up 77.5 percent on the prior-year quarter. Adjusted for special factors, net profit even increased by 83.6 percent to 2.4 billion euros. For the third time in the current financial year, Deutsche Telekom has raised its guidance. In organic terms, adjusted EBITDA AL is now expected to come in at more than 37.0 billion euros, up from the previous guidance of around 37.0 billion euros. Adjusted core EBITDA AL, i.e., adjusted for the effects of the withdrawal from the terminal equipment lease business in the United States, is now expected to total more than 35.9 billion euros, up from previously around 35.9 billion euros. Adjusted earnings per share are now expected to reach more than 1.50 euros. The original guidance was over 1.25 euros. Against the background of the results of the first nine months of 2022, the Board of Management plans to pay out a dividend of 0.70 euros per share, subject to the approval of the Supervisory Board and the shareholders’ meeting. A dividend of 0.64 euros per share had been paid out for the 2021 financial year. 
+
+Germany: New rate plans accelerate growth
+
+ Telekom Deutschland’s new mobile rate plans are off to a successful start. The branded contract customer base grew by 368,000 in the third quarter, with the new rate plans also contributing to the substantially stronger growth against the prior quarters. Mobile service revenues at Telekom Deutschland increased in the same period by 2.0 percent year-on-year. Telekom Deutschland’s broadband customer base grew by 63,000 between July and September. Around 80 percent of Telekom’s broadband consumers in Germany now use a fiber-optic-based line (FTTC/vectoring and FTTH). Around 40 percent of the customers have since subscribed to a rate plan offering bandwidths of up to 100 Mbit/s or higher. Revenue in the Germany operating segment increased to 6.1 billion euros in the third quarter of 2022, up by 2.8 percent against the prior-year period. Growth in adjusted EBITDA AL in the same period was even stronger: up 3.0 percent to 2.5 billion euros. 
+
+T-Mobile USA: Customer additions at a record high
+
+ With 1.6 million new postpaid customers in the third quarter of 2022, including 854,000 phone customers, T-Mobile US reached record levels and once again posted industry-leading growth. High Speed Internet, i.e., the U.S. company’s mobile internet access product, is also driving further rapid growth. In the third quarter alone, 578,000 customers opted for this offering. A total of over 2.1 million customers are now using the product. Service revenues at T-Mobile US increased by 4.2 percent in the third quarter compared with the same quarter of the prior year to 15.3 billion U.S. dollars. Adjusted EBITDA AL declined by 0.9 percent to 6.7 billion U.S. dollars. Adjusted core EBITDA AL – i.e., adjusted for the withdrawal from the leasing business – grew by 5.4 percent to 6.4 billion U.S. dollars. T-Mobile US reported a decrease of around 22 percent in the costs incurred for the integration of Sprint against the second quarter of 2022. This indicates that the costs have passed their peak. T-Mobile US raised its guidance across several financial and customer performance indicators. It now expects to unlock synergies from the Sprint merger of between 5.7 and 5.8 billion U.S. dollars in the current year, up from a previous guidance range of 5.4 to 5.6 billion U.S. dollars. 
+
+Europe: Development of customer numbers on track
+
+ Revenue of the national companies in Europe continues to grow strongly. The organic growth in the third quarter of 5.5 percent was particularly marked. By contrast, growth in adjusted EBITDA AL of 0.5 percent in organic terms was down year-on-year, slowed primarily by the new supplementary telecommunication tax imposed in Hungary and by rising energy costs. Customer numbers continue to grow at an exceptionally fast rate. Figures were up compared with the previous quarters across the board, with 251,000 mobile contract net additions, 76,000 broadband net additions, and 32,000 TV net additions. The number of customers using fixed-mobile convergence products also maintained its stable growth trend, increasing by 173,000 in the third quarter. 
+
+Systems Solutions: Order entry up
+
+ T-Systems looks back on a good quarter. Order entry totaled 0.9 billion euros, up 17.0 percent on the same quarter in the prior year, thanks in a large part to a major new deal in the healthcare sector. Revenue remained stable, increasing 0.4 percent to 0.9 billion euros on an organic basis. Adjusted EBITDA AL increased in organic terms by 2.3 percent to 83 million euros. 
+
+Group Development: More sites added
+
+ In July, Deutsche Telekom agreed to sell a 51 percent stake in GD Towers, the Group’s cell tower business in Germany and Austria, to DigitalBridge and Brookfield. The Group will continue to report on the development of the ongoing business until the transaction is closed. As of the end of the third quarter, GD Towers operated 41,000 sites. GD Towers has commissioned around 1,200 additional sites over the past 12 months. 
+
+The Deutsche Telekom Group at a glance
+
+Q3
+
+2022
+
+millions of €
+
+Q3
+
+2021
+
+millions of €
+
+Change
+
+%
+
+Q1-Q3
+
+2022
+
+millions of €
+
+Q1-Q3
+
+2021
+
+millions of €
+
+Change
+
+%
+
+FY 2021
+
+millions of €
+
+Net revenue
+
+28,979
+
+26,641
+
+8.8
+
+84,613
+
+79,164
+
+6.9
+
+107,811
+
+Proportion generated internationally
+
+%
+
+78.2
+
+73.6
+
+4.6p
+
+77.9
+
+76.9
+
+1.0p
+
+77.0
+
+Service revenue
+
+23,584
+
+20,971
+
+12.5
+
+68,227
+
+61,448
+
+11.0
+
+83,130
+
+Adjusted EBITDA
+
+12,003
+
+11,139
+
+7.8
+
+34,915
+
+32,714
+
+6.7
+
+43,175
+
+Adjusted EBITDA AL
+
+10,481
+
+9,661
+
+8.5
+
+30,244
+
+28,323
+
+6.8
+
+37,330
+
+Net profit (after non-controlling interests)
+
+1,578
+
+889
+
+77.5
+
+6,987
+
+3,705
+
+88.6
+
+4,176
+
+Adjusted net profit (after non-controlling interests)
+
+2,411
+
+1,313
+
+83.6
+
+7,094
+
+4,627
+
+53.3
+
+5,862
+
+Free cash flow AL
+
+2,904
+
+2,940
+
+-1.2
+
+9,444
+
+8,290
+
+13.9
+
+8,810
+
+Cash capexa
+
+5,949
+
+4,666
+
+27.5
+
+18,208
+
+21,260
+
+-14.4
+
+26,366
+
+Cash capexa
+
+(before spectrum)
+
+5,582
+
+4,362
+
+28.0
+
+15,224
+
+12,932
+
+17.7
+
+17,978
+
+Net debt (including leasing)
+
+151,707
+
+130,375
+
+16.4
+
+132,142
+
+Number of employeesb
+
+207,930
+
+216,265
+
+-3.9
+
+216,528
+
+Of which in Germany
+
+82,883
+
+86,517
+
+-4.2
+
+85,160
+
+ Comments on the table Accounting change affecting the recording of revenues In light of the IFRS Interpretations Committee’s agenda decision published in May 2022 on transactions involving the commercial resale of software, Deutsche Telekom has implemented comprehensive changes to its accounting practices with respect to distinguishing between gross and net revenues, effective the start of the third quarter of 2022. The prior-year figures for total revenue, service revenue, and order entry were adjusted retrospectively. The change does not affect the earnings indicators: adjusted EBITDA, adjusted EBITDA AL, and net profit. The change mainly affects the recognition of revenues from transactions relating to branded digital products (e.g., streaming services, software licenses, cloud-based software as a service) provided by and purchased from third parties and sold to customers as part of Deutsche Telekom’s product portfolio. a. Cash outflows for investments in property, plant, and equipment, and intangible assets (excluding goodwill). b. At reporting date. 
+
+Operating segments: development of operations
+
+Q3
+
+2022
+
+millions of €
+
+Q3
+
+2021
+
+millions of €
+
+Change
+
+%
+
+Q1-Q3
+
+2022
+
+millions of €
+
+Q1-Q3
+
+2021
+
+millions of €
+
+Change
+
+%
+
+FY 2021
+
+millions of €
+
+Germanya
+
+Total revenue
+
+6,144
+
+5,974
+
+2.8
+
+18,145
+
+17,763
+
+2.2
+
+24,050
+
+Adjusted EBITDA AL
+
+2,535
+
+2,462
+
+3.0
+
+7,358
+
+7,128
+
+3.2
+
+9,536
+
+United States
+
+Total revenue
+
+19,316
+
+16,664
+
+15.9
+
+55,636
+
+49,516
+
+12.4
+
+67,791
+
+In USD
+
+19,440
+
+19,642
+
+-1.0
+
+59,139
+
+59,241
+
+-0.2
+
+80,135
+
+Adjusted EBITDA AL
+
+6,690
+
+5,771
+
+15.9
+
+19,198
+
+17,215
+
+11.5
+
+22,697
+
+in USD
+
+6,742
+
+6,803
+
+-0.9
+
+20,417
+
+20,596
+
+-0.9
+
+26,871
+
+Europe
+
+Total revenue
+
+2,848
+
+2,880
+
+-1.1
+
+8,259
+
+8,403
+
+-1.7
+
+11,294
+
+Adjusted EBITDA AL
+
+1,046
+
+1,105
+
+-5.3
+
+3,007
+
+3,046
+
+-1.3
+
+4,007
+
+Q3
+
+2022
+
+millions of €
+
+Q3
+
+2021
+
+millions of €
+
+Change
+
+%
+
+Q1-Q3
+
+2022
+
+millions of €
+
+Q1-Q3
+
+2021
+
+millions of €
+
+Change
+
+%
+
+FY 2021
+
+millions of €
+
+Systems Solutionsa
+
+Order entry
+
+867
+
+741
+
+17.0
+
+2,769
+
+2,601
+
+6.5
+
+3,876
+
+Total revenue
+
+927
+
+910
+
+1.9
+
+2,796
+
+2,803
+
+-0.2
+
+3,759
+
+Adjusted EBITDA AL
+
+83
+
+74
+
+12.2
+
+230
+
+202
+
+13.9
+
+271
+
+Group Developmentb
+
+Total revenue
+
+293
+
+787
+
+-62.8
+
+1,409
+
+2,349
+
+-40.0
+
+3,165
+
+Adjusted EBITDA AL
+
+221
+
+340
+
+-35.0
+
+740
+
+975
+
+-24.1
+
+1,307
+
+ Comments on the table Accounting change affecting the recording of revenues In light of the IFRS Interpretations Committee’s agenda decision published in May 2022 on transactions involving the commercial resale of software, Deutsche Telekom has implemented comprehensive changes to its accounting practices with respect to distinguishing between gross and net revenues, effective the start of the third quarter of 2022. The prior-year figures for total revenue, service revenue, and order entry were adjusted retrospectively. The change does not affect the earnings indicators: adjusted EBITDA, adjusted EBITDA AL, and net profit. a.Intragroup reassignment of the security business Effective July 1, 2022, Deutsche Telekom reassigned its subsidiary Deutsche Telekom Security GmbH and the security business in Germany, Austria, Switzerland, Hungary, and Slovakia from the Systems Solutions operating segment to the Germany operating segment. As of the third quarter of 2022, the prior-year comparatives on the development of operations, headcount development, and order entry were adjusted retrospectively in both of the segments affected. b.Sale of T-Mobile Netherlands (TMNL) The sale of TMNL was consummated on March 31, 2022. The entity has not been part of the Group since April 1, 2022 (Group Development segment). TMNL’s contributions are included in the cumulative figures (Q1–Q3 2022) for the first quarter of 2022 only. Prior-year comparatives were not adjusted. Partnership for the cell tower business On July 13, 2022, Deutsche Telekom agreed to sell a 51.0 percent stake in GD Towers, comprising its tower assets in Germany and Austria, to DigitalBridge and Brookfield. The transaction is expected to be completed by the start of 2023. Until completion of the transaction, GD Towers will continue to be included in full in the figures of the Group Development operating segment and of the Deutsche Telekom Group. Operating segments: development of customer numbers in the third quarter of 2022 
+
+September 30, 2022
+
+thousands
+
+June 30, 2022
+
+thousands
+
+Change
+
+thousands
+
+Change
+
+%
+
+Germany
+
+Mobile customers
+
+52,991
+
+54,551
+
+-1,560
+
+-2.9
+
+Of which contract customers
+
+23,544
+
+23,402
+
+142
+
+0.6
+
+Fixed-network lines
+
+17,396
+
+17,437
+
+-41
+
+-0.2
+
+Broadband lines
+
+14,641
+
+14,578
+
+63
+
+0.4
+
+Of which optical fibera
+
+11,740
+
+10,836
+
+904
+
+8.3
+
+Television (IPTV, satellite)
+
+4,071
+
+4,039
+
+32
+
+0.8
+
+Unbundled local loop lines (ULLs)
+
+3,231
+
+3,351
+
+-120
+
+-3.6
+
+United States
+
+Customers
+
+111,755
+
+110,023
+
+1,732
+
+1.6
+
+Of which postpaid customers
+
+90,414
+
+88,787
+
+1,627
+
+1.8
+
+Of which prepaid customers
+
+21,341
+
+21,236
+
+105
+
+0.5
+
+Europe
+
+Mobile customers
+
+47,301
+
+46,459
+
+842
+
+1.8
+
+Of which contract customers
+
+26,297
+
+26,046
+
+251
+
+1.0
+
+Fixed-network lines
+
+7,866
+
+7,839
+
+27
+
+0.3
+
+Broadband customers
+
+6,597
+
+6,521
+
+76
+
+1.2
+
+Television (IPTV, satellite, cable)
+
+4,099
+
+4,067
+
+32
+
+0.8
+
+ Comments on the table a. Sum of all FTTx access lines (e.g., FTTC/VDSL, vectoring, and FTTH/B). Operating segments: development of customer numbers in year-on-year comparison 
+
+September 30, 2022 thousands
+
+September 30, 2021 thousands
+
+Change
+
+thousands
+
+Change
+
+%
+
+Germany
+
+Mobile customers
+
+52,991
+
+52,184
+
+807
+
+1.5
+
+Of which contract customers
+
+23,544
+
+22,914
+
+630
+
+2.7
+
+Fixed-network lines
+
+17,396
+
+17,543
+
+-147
+
+-0.8
+
+Broadband lines
+
+14,641
+
+14,394
+
+247
+
+1.7
+
+Of which optical fibera
+
+11,740
+
+10,175
+
+1,565
+
+15.4
+
+Television (IPTV, satellite)
+
+4,071
+
+3,966
+
+105
+
+2.6
+
+Unbundled local loop lines (ULLs)
+
+3,231
+
+3,744
+
+-513
+
+-13.7
+
+United States
+
+Customers
+
+111,755
+
+106,920
+
+4,835
+
+4.5
+
+Of which postpaid customers
+
+90,414
+
+85,913
+
+4,501
+
+5.2
+
+Of which prepaid customers
+
+21,341
+
+21,007
+
+334
+
+1.6
+
+Europe
+
+Mobile customers
+
+47,301
+
+46,391
+
+910
+
+2.0
+
+Of which contract customers
+
+26,297
+
+27,430
+
+-1,133
+
+-4.1
+
+Fixed-network lines
+
+7,866
+
+9,123
+
+-1,257
+
+-13.8
+
+Broadband customers
+
+6,597
+
+7,108
+
+-511
+
+-7.2
+
+Television (IPTV, satellite, cable)
+
+4,099
+
+5,132
+
+-1,033
+
+-20.1
+
+ Comments on the table a. Sum of all FTTx access lines (e.g., FTTC/VDSL, vectoring, and FTTH/B). This media information contains forward-looking statements that reflect the current views of Deutsche Telekom management with respect to future events. They are generally identified by the words “expect,” “anticipate,” “believe,” “intend,” “estimate,” “aim,” “goal,” “plan,” “will,” “seek,” “outlook,” or similar expressions and include generally any information that relates to expectations or targets for revenue, adjusted EBITDA AL, or other performance measures. Forward-looking statements are based on current plans, estimates, and projections, and should therefore be considered with caution. Such statements are subject to risks and uncertainties, most of which are difficult to predict and are generally beyond Deutsche Telekom’s control. They include, for instance, the progress of Deutsche Telekom’s staff-related restructuring measures and the impact of other significant strategic or business initiatives, including acquisitions, dispositions, and business combinations. In addition, movements in exchange rates and interest rates, regulatory rulings, stronger than expected competition, technological change, litigation, and regulatory developments, among other factors, may have a material adverse effect on costs and revenue development. If these or other risks and uncertainties materialize, or if the assumptions underlying any of these statements prove incorrect, Deutsche Telekom’s actual results may be materially different from those expressed or implied by such statements. Deutsche Telekom can offer no assurance that its expectations or targets will be achieved. Without prejudice to existing obligations under capital market law, Deutsche Telekom does not assume any obligation to update forward-looking statements to account for new information or future events or anything else. In addition to figures prepared in accordance with IFRS, Deutsche Telekom presents alternative performance measures, e.g., EBITDA, EBITDA AL, adjusted EBITDA, adjusted EBITDA AL, adjusted EBITDA margin AL, core EBITDA, adjusted EBIT, EBIT margin, adjusted net profit/loss, adjusted earnings per share, free cash flow, free cash flow AL, gross debt, and net debt. These measures should be considered in addition to, but not as a substitute for, the information prepared in accordance with IFRS. Alternative performance measures are not subject to IFRS or any other generally accepted accounting principles. Other companies may define these terms in different ways.

@@ -1,0 +1,17 @@
+Telekom offers companies a new solution against hackers. The company is now cooperating with security specialist Ivanti. Ivanti's latest software automatically detects and closes security gaps. This saves customers valuable time when patching. In 2021, ten percent more vulnerabilities were identified in software products than in the previous year, according to the German Federal Office for Information Security. Patch! Patch! Patching is the mantra of security. Speed is the key factor in fending off hackers. They are exploiting gaps for their attacks ever faster. An analysis by the Rand Corporation showed that it takes an average of just 22 days for attackers to exploit a known vulnerability. In contrast, many companies need more than a hundred days before they can prevent worse with a patch, according to the U.S. think tank. 
+
+The smartphone as a risk constantly in view
+
+ Mobile devices such as smartphones, watches, laptops and tablets make it more difficult to close gaps. Which models with which operating system versions are employees using? Every 'forgotten' device is a potential gateway. Few companies, however, have the resources to quickly seal the company against attackers. 
+
+Counter cyberattacks automatically
+
+ Thomas Tschersich, Chief Security Officer at Deutsche Telekom and CEO Telekom Security, says: "Cyber criminals determine the moment, type and target of the attack. With automation, we counter them and save time. The software looks: Where is the greatest risk? And then passes this information to the patch system before someone sneaks through the crack in the door." Günter Mayer, vice president of carrier international at Ivanti, says, "New attack techniques and ever-faster attacks are a challenge for corporate security. Our Ivanti Neurons platform therefore continuously detects security risks. And it fixes them even before users find out about them. Current threats like ransomware cause massive economic damage." 
+
+Late patching pays off
+
+ Dilly-dallying on patching can be costly. That was demonstrated in 2017 by the WannaCry attack. The ransomware encrypted 200,000 computers in 150 countries. A patch would have been available. Many did not install it. WannaCry took advantage of that. Estimates range from a few hundred million to four billion dollars in damage. The ransomware attack on the Anhalt-Bitterfeld district administration last October also had serious consequences. Afterwards, citizen services functioned only to a limited extent or not at all for 207 days. 
+
+Program package as a telecom service
+
+ Ivanti's Neurons automation platform also includes software that detects and inventories corporate IT. This normally takes days. The program does it in minutes. Telekom business customers thus protect a larger number of different end devices with Ivanti solutions. Customers use the program package as a Telekom solution. They do not need a software license and additional invoice for it. Telekom offers the package as a paid service.

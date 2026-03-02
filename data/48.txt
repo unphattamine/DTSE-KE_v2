@@ -1,0 +1,43 @@
+
+
+Test of “cell tower to go” by enterprises has started
+
+ Flexible mobile coverage solution for company premises, large construction sites or events Companies are testing the prototype for free - commercial offer from spring Increasing digitalization and the growing demand for mobile communication require reliable mobile communications coverage at all times. This also applies to short-term requirements due to festivals or large construction sites. Deutsche Telekom is now relying on ultra-mobile masts. Just a few months ago, Deutsche Telekom developed a prototype, the "cell-tower-to-go", which has already become a customer favorite within a short space of time. Around a dozen companies are testing the flexible solution so far. "With our call to test our ultra-mobile cell tower, we have raised great interest among companies from a wide range of industries. This high demand shows: The need for a flexible mobile communications solution is there - also among business customers. This has strengthened our decision to offer this innovation 'made by Telekom' commercially in the future," says Klaus Werner, Managing Director Business Customers at Telekom Deutschland. 
+
+Implenia: Establishing coverage without existing connectivity
+
+ One of the first testers is the leading Swiss construction and real estate service provider Implenia. The company will provide its bridge construction site in Bad Lobenstein (Thuringia, Germany) with 5G and 4G/LTE during the two-year construction phase. The construction site in the valley could not be reached by the conventional mobile phone masts in the surrounding area. However, due to the high degree of digitalization of the construction site, a fast and reliable mobile network connection is essential. Telekom's cell-tower-to-go provides high-performance coverage at the construction site. Smartphones and computers then use fast mobile connections via frequencies in the 2.6 and 3.6 gigahertz range. For Implenia, this basic mobile communications coverage is also an ideal basis for IoT applications. The company uses them to optimize processes and material flows on the construction site. The easy-to-connect mast is linked to the network on the bridge construction site via fiber optics. However, the connection via satellite will also be tested in a next step. This will provide additional flexibility and an even faster connection to the network. 
+
+flaschenpost: speed is the gamechanger in logistics
+
+ The micro-container is also making a big impact at the delivery service flaschenpost SE. The food and beverage delivery service from Münster, Germany, uses the additional 5G supply within a logistics hall. This speeds up its operational processes. The business of the logistics professionals at flaschenpost is fast-moving. As part of its expansion, new locations are constantly being added across Germany, or existing warehouses are moving to new premises. Fixed cabling for the locations is complex and expensive. In addition, coverage within logistics halls is usually difficult due to their particular structure. Concrete and metal strongly obstruct the radio waves. This is why flaschenpost needs a flexible and fast solution without long set-up and dismantling times. The mobile mast-to-go offers exactly that: in addition to conventional telephony for the team, intralogistics applications are also quickly ready for use via 5G coverage. Smartphone apps for goods storage or picking via handheld scanners can be used flexibly via plug-and-play. This means that all orders are dispatched in the shortest possible time. 
+
+Compact assistant
+
+ The special feature of the ultra-mobile mast is that it is significantly smaller, lighter and more flexible than previous solutions. The entire radio technology fits into a compact micro-container (length: 1.6 meters, width: 2 meters, height: 2.6 meters). This makes the mobile mast space-saving and easy to transport. It can be set up by one person in less than an hour - and is immediately ready for use. The micro container can be connected to a local power supply or operated using any other mobile power source. It can be connected to the data network via fiber optics or radio relay. These advantages make the mobile “dwarf” not only the first choice for fast or temporary coverage for business customers. The use of mobile masts also provides rapid assistance in disaster areas thanks to their enormous flexibility. 
+
+Commercial offer from 2024
+
+ Deutsche Telekom will launch a commercial offer for the use of ultra-mobile transmission masts in spring 2024. Interested business customers can request further information about the "mobile mast-to-go" here: iot.telekom.com/en/contact 
+
+The advantages of the ultra-mobile mobile radio solution at a glance
+
+Flexibility and mobility
+
+ Mobile masts can be set up quickly and easily at different locations. This makes them suitable for temporary events such as concerts or sporting events. They can also be used at trade fairs or changing construction sites. In this way, they guarantee continuous mobile radio coverage. 
+
+Fast deployment
+
+ Setting up mobile masts is significantly faster than building fixed transmission masts. This means that mobile coverage can be provided in a short space of time. Without long waiting times for approvals and construction processes. 
+
+Expansion of capacity
+
+ The use of mobile masts increases the capacity of the mobile network. This ensures a better connection and more stable transmission. This is helpful in heavily frequented areas. At events with a large number of visitors, sufficient network capacity is essential. This is the only way to ensure that guests can communicate. 
+
+Improving coverage
+
+ Mobile masts help to improve mobile coverage in remote locations or in areas with limited network infrastructure. This ensures seamless communication and radio gaps can be closed. 
+
+Adaptability
+
+ The height and alignment of the mobile mast can be flexibly adjusted. This enables optimum signal strength and efficient use of the mobile network. This creates the best reception quality.

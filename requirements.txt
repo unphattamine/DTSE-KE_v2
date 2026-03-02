@@ -1,0 +1,19 @@
+# Web App & Environment
+streamlit
+python-dotenv
+
+# LlamaIndex Core
+llama-index-core
+
+# LLM & Embedding Integrations
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+
+# Storage & Retrieval Integrations
+llama-index-vector-stores-chroma
+chromadb
+llama-index-retrievers-bm25
+rank-bm25
+
+# Optional but recommended for handling various file types
+llama-index-readers-file
